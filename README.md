@@ -10,14 +10,10 @@
 - ❤️ I’m currently learning MERN Stack.
 - 🐑 Fun fact: I love movies / sports (1# Basketball🤣).
 
-### Spotify Playing 🎧
-
-[<img src="https://open.spotify.com/playlist/5KFMcPXv4POsMHk3vMzOjG?si=Np7UH-J6Q8WBocVhmKR8Yg" alt="Meran1995 Spotify Playing" width="350" />](https://open.spotify.com/user/1160971406?si=T-EwgSJJREWmHL5bvYqhuQ)
-
 ### Connect with me:
 
 [<img align="left" alt="Meran1995 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Meran1995 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
+[<img align="left" alt="Meran1995 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Meran1995 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -77,4 +73,3 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
