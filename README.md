@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN Stack.
 - 📚 Started with language python => C => Javascript
-- 📹 My last course: [JS - The Complete Guide][course]!
+- 📹 My last course I took: [JS - The Complete Guide][course]!
 - 🙏 I’m looking for my dream job in 2021.
 - 📌 2021 Goals: put myself out there as a developer!
 - ❤️ I’m currently learning MERN Stack.
